@@ -18,3 +18,8 @@ Review Section:
 ![image](https://user-images.githubusercontent.com/25307894/147553007-563ebf9e-1d74-4bf3-8817-6a08a73772f7.png)
 
 Footer section:
+![image](https://user-images.githubusercontent.com/25307894/147553292-9c424661-714a-4e82-994d-bf06f3f3c27a.png)
+
+
+Live project Demo:
+https://skillz-landingpage.netlify.app/
